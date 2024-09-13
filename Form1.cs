@@ -47,7 +47,7 @@ namespace Wordle
 
         private void DisplayTargetWord()
         {
-            //label1.Text = targetWord; // Rastgele seçilen kelimeyi göster
+            label1.Text = targetWord; // Rastgele seçilen kelimeyi göster
         }
 
         private void NewGame()
